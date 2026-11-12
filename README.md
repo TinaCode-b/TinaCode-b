@@ -1,92 +1,95 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:E85D9E,100:0D0D0D&height=200&section=header&text=TinaCode&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Digital%20Experiences&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:E85D9E,100:090909&height=220&section=header&text=TinaCode&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code.%20Create.%20Innovate.&descAlignY=60&descSize=18" width="100%" />
 
-# Hey, I'm Tina! 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=E85D9E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Tina+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;Building+Digital+Experiences+%E2%9C%A8;Always+Learning+Something+New+%F0%9F%8C%B1" alt="Typing SVG" />
 
-### `Frontend Developer` · `Computer Science Student` · `Creative Builder`
+<br/>
 
-I build digital experiences that combine thoughtful design, clean code, and functionality.
-
-I'm passionate about web development, mobile applications, and exploring new technologies. I enjoy turning ideas into products that people can actually use.
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E85D9E?style=for-the-badge&logo=vercel&logoColor=white)](https://ernestinaportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=E85D9E)](https://www.linkedin.com/in/ernestina-boakye-dankwah/)
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=E85D9E)](https://github.com/TinaCode-b)
 
 </div>
 
 ---
 
-### 🖤 About Me
+## 🖤 About Me
 
-- 🎓 Studying **BSc Computer Science at KNUST**.
+Hey there! I'm **Ernestina Boakye Dankwah**, also known as Tina.
+
+I'm a Computer Science student and developer who enjoys turning creative ideas into functional digital experiences.
+
+- 🎓 BSc Computer Science student at KNUST.
 - 💻 Interested in frontend and software development.
-- 🌱 Constantly learning and experimenting with new technologies.
-- 🚀 Building websites and mobile applications.
-- 🤝 Open to collaborations, opportunities, and exciting projects.
+- 🌸 Passionate about beautiful UI/UX and functional applications.
+- 🚀 Building web and mobile applications.
+- 🌱 Always exploring new technologies and improving my skills.
+- 🤝 Open to collaborations and exciting opportunities.
 
-### 🌸 Tech Stack
+> *I believe great software is where creativity meets functionality.*
 
-**Languages & Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=E85D9E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=E85D9E)
-![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=E85D9E)
-![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=E85D9E)
-![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=E85D9E)
-![React Native](https://img.shields.io/badge/React_Native-0D0D0D?style=for-the-badge&logo=react&logoColor=E85D9E)
-
-**Programming & Tools**
-
-![Java](https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=E85D9E)
-![C++](https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=E85D9E)
-![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=E85D9E)
-![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E85D9E)
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🎬 CineSynapse Studio | A movie discovery and entertainment platform. |
-| 📰 Fanfare | A news discovery platform connecting readers to original publishers. |
-| 🌷 Bloom | A period tracking and wellness mobile app. |
-| 🏡 DecorAI GH | An AI-powered interior and event decoration application. |
-| 📜 Chronicle | An interactive history exploration website. |
-| ✨ Elveelia Medspa | A beauty and wellness business website. |
-
-### 📊 GitHub Analytics
+## 🌸 My Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TinaCode-b&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=E85D9E&icon_color=E85D9E&text_color=FFFFFF&hide_border=true" width="48%" />
+### Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinaCode-b&layout=compact&theme=radical&bg_color=0D0D0D&title_color=E85D9E&text_color=FFFFFF&hide_border=true" width="48%" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,html,css&theme=dark" />
 
-<img src="https://streak-stats.demolab.com?user=TinaCode-b&theme=radical&background=0D0D0D&ring=E85D9E&fire=E85D9E&currStreakLabel=E85D9E&hide_border=true" width="70%" />
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,git,github,vscode,figma&theme=dark" />
 
 </div>
 
-### 💌 Let's Connect
+## 🚀 Featured Projects
+
+| Project | Description | Technology |
+|---|---|---|
+| 🎬 CineSynapse Studio | Movie and entertainment discovery platform | React |
+| 📰 Fanfare | News discovery platform linking readers to original publishers | Web |
+| 🌷 Bloom | Period tracking and wellness mobile application | React Native |
+| 🏡 DecorAI GH | AI-powered interior and event decoration application | React Native |
+| 📜 Chronicle | Interactive history exploration website | HTML, CSS, JS |
+| ✨ Elveelia Medspa | Beauty and wellness business website | HTML, CSS, JS |
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E85D9E)](https://github.com/TinaCode-b)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E85D9E)](https://www.linkedin.com/in/ernestina-boakye-dankwah/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E85D9E)](https://ernestinaportfolio.vercel.app)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TinaCode-b&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E85D9E&icon_color=E85D9E&text_color=FFFFFF&rank_icon=github" />
 
-*Building, learning, and creating — one commit at a time.* 🌸
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinaCode-b&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E85D9E&text_color=FFFFFF" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:E85D9E,100:0D0D0D&height=100&section=footer" width="100%" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=TinaCode-b&hide_border=true&background=0D0D0D&ring=E85D9E&fire=E85D9E&currStreakLabel=E85D9E&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" />
 
 </div>
-<!--
-**TinaCode-b/TinaCode-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🐍 My Contribution Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TinaCode-b/TinaCode-b/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+
+</div>
+
+## 💌 Let's Connect
+
+<div align="center">
+
+I'm always happy to connect with developers, designers and people building exciting things.
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-E85D9E?style=for-the-badge&logo=vercel&logoColor=white)](https://ernestinaportfolio.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=E85D9E)](https://www.linkedin.com/in/ernestina-boakye-dankwah/)
+
+<br/>
+
+*Thanks for stopping by! Keep building. Keep creating. Keep growing.* 🌸
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:E85D9E,100:090909&height=120&section=footer" width="100%" />
+
+</div>
